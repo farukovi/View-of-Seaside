@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1567508334 source:f:\html\project\graphics_project\main.cpp
+	<cstdio>
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+
